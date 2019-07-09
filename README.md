@@ -1,10 +1,10 @@
 所需的环境
 
-tensorflow-gpu ==1.10 
-	 numpy ==1.14.5 
-opencv-python == 4.0.0 
-	Pillow-PIL ==0.1.dev0 
-	matplotlib ==2.0.2
+ tensorflow-gpu ==1.10 
+	  numpy ==1.14.5 
+  opencv-python == 4.0.0 
+     Pillow-PIL ==0.1.dev0 
+     matplotlib ==2.0.2
 
 第一部分:简单介绍 
 
